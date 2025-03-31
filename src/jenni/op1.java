@@ -18,7 +18,7 @@ public class op1 {
 		System.out.println(2!=3);
 		System.out.println(2>3?200:400);
 		System.out.println(22>33&&66<33);
-		System.out.println(33>22||55>44);
+		System.out.println(33>22||33<66);
 		System.out.println(!(10>100));
 		
 	}
