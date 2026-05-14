@@ -14,7 +14,7 @@
 ## Tools & Technologies
 
 - Java
-- IntelliJ IDEA
+- Eclipse IDE
 - Git & GitHub
 
 I use this repository to practice coding consistently and improve my programming skills step by step.
